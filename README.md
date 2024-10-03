@@ -16,7 +16,10 @@ Bu proje, HTML ve CSS kullanarak oluşturulmuş bir arayüzü klonudur.
 # Ekran kaydı
 Amazon Projeyenin bir özümlemsi yukarıdaki gifte yer almaktadır.
 
-![Uploading Amazon gıf.gif…]()
+![Amazon gıf](https://github.com/user-attachments/assets/d51f5060-046d-4ace-a559-e7668ca472fb)
+
+!![Uploading Amazon gıf.gif…]()
+
 
 
 
