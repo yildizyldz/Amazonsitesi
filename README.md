@@ -15,5 +15,6 @@ Bu proje, HTML ve CSS kullanarak oluşturulmuş bir arayüzü klonudur.
 - CSS3
 # Ekran kaydı
 Amazon Projeyenin bir özümleesi yukarıdaki gifte yer almaktadır.
-![Uploading Amazon gıf (2).gif…]()
+
+![Uploading Amazon gıf.gif…]()
 
